@@ -1,0 +1,165 @@
+uat link:-
+
+https://uat-liferay-elb-464500266.ap-south-1.elb.amazonaws.com/group/ecube/awe-workflow
+
+
+
+
+
+=============================================
+
+Initiate workflow mail subject
+
+Approval Required- Work from Office - Pass Request
+
+==================================================
+
+Initiate workflow mail content
+
+Dear [$recipient$] , <br/>
+ <br/>
+[$sender$] has submitted following details for </b>Work from Office - Pass Request</b> and is in <b>Pending Approval</b> status:</br></br>
+<table style="border: 1px solid black;">
+	<thead>
+		<tr><th style="border: 1px solid black;">Employee Code</th><th style="border: 1px solid black;">Employee Name</th><th style="border: 1px solid black;">Employee Department</th><th style="border: 1px solid black;">Employee Location</th></tr>
+	</thead>
+	<tbody>
+		<tr><td style="border: 1px solid black;"> #EmployeeCode# </td><td style="border: 1px solid black;"> #EmployeeName# </td><td style="border: 1px solid black;"> #Department# </td><td style="border: 1px solid black;"> #EmployeeLocation# </td></tr>
+	</tbody>
+
+	<tr><th style="border: 1px solid black;">Reason for request</th><td colspan="3" style="border: 1px solid black;"> #ReasonforVisit# </td></tr>
+	
+</table>
+</br>
+</br>
+<table style="border: 1px solid black;">
+	<thead>
+		<tr><th colspan="3" style="border: 1px solid black;">Declaration of Health Conditions</th></tr>
+		<tr><th style="border: 1px solid black;">Checklist Question</th><th style="border: 1px solid black;">Bullet (Yes / No)</th><th style="border: 1px solid black;">Comments</th></tr>
+	</thead>
+	<tbody>
+		<tr><td style="border: 1px solid black;">1.Are you or any of your close family member experiencing any COVID related symptoms (cold, flu, fever etc.)? </td><td style="border: 1px solid black;"> #1radio# </td><td style="border: 1px solid black;"> #1desc# </td></tr>
+		<tr><td style="border: 1px solid black;">2.Are you residing in a containment zone or have you been advised to be under self-quarantine in the last 3 weeks? If yes, please mention details. </td><td style="border: 1px solid black;"> #2radio# </td><td style="border: 1px solid black;"> #2desc# </td></tr>
+		<tr><td style="border: 1px solid black;">3.Have you or any of your close family member was advised to be under self-quarantine in last 3 weeks or was in contact (Physical) with anyone who have returned from abroad in the last two weeks? </td><td style="border: 1px solid black;"> #3radio# </td><td style="border: 1px solid black;"> #3desc# </td></tr>
+		<tr><td style="border: 1px solid black;">4.Do you have any pre-existing illness such as diabetes, heart, lungs etc.? </td><td style="border: 1px solid black;"> #4radio# </td><td style="border: 1px solid black;"> #4desc# </td></tr>
+	</tbody>
+</table></br></br>
+Please visit <b>Work from Office - Pass Request</b> tab on meCube section on Employee App to approve the request.</br></br>
+
+Sincerely,</br>
+Manager</br>
+Max Life Insurance Ltd.
+
+
+===============================================================
+
+Approve workflow mail subject
+
+#ApprovalStatus#  : Work from Office - Pass Request
+
+
+==============================================================
+
+Approve workflow mail content
+
+Dear [$recipient$] ,</br></br>
+Your request with following details has been <b> #ApprovalStatus# </b>.</br></br>
+<table style="border: 1px solid black;">
+	<thead>
+		<tr><th style="border: 1px solid black;">Employee Code</th><th style="border: 1px solid black;">Employee Name</th><th style="border: 1px solid black;">Employee Department</th><th style="border: 1px solid black;">Employee Location</th></tr>
+	</thead>
+	<tbody>
+		<tr><td style="border: 1px solid black;"> #EmployeeCode# </td><td style="border: 1px solid black;"> #EmployeeName# </td><td style="border: 1px solid black;"> #Department# </td><td style="border: 1px solid black;"> #EmployeeLocation# </td></tr>
+	</tbody>
+
+	<tr><th style="border: 1px solid black;">Reason for request</th><td colspan="3" style="border: 1px solid black;"> #ReasonforVisit# </td></tr>
+	<tr><th style="border: 1px solid black;">Spoc Manager Comments</th><td colspan="3" style="border: 1px solid black;"> #HRManagerComment# </td></tr>
+</table>
+</br>
+</br>   
+<table style="border: 1px solid black;">
+	<thead>
+		<tr><th colspan="3" style="border: 1px solid black;">Declaration of Health Conditions</th></tr>
+		<tr><th style="border: 1px solid black;">Checklist Question</th><th style="border: 1px solid black;">Bullet (Yes / No)</th><th style="border: 1px solid black;">Comments</th></tr>
+	</thead>
+	<tbody>
+		<tr><td style="border: 1px solid black;">1.Are you or any of your close family member experiencing any COVID related symptoms (cold, flu, fever etc.)? </td><td style="border: 1px solid black;"> #1radio# </td><td style="border: 1px solid black;"> #1desc# </td></tr>
+		<tr><td style="border: 1px solid black;">2.Are you residing in a containment zone or have you been advised to be under self-quarantine in the last 3 weeks? If yes, please mention details. </td><td style="border: 1px solid black;"> #2radio# </td><td style="border: 1px solid black;"> #2desc# </td></tr>
+		<tr><td style="border: 1px solid black;">3.Have you or any of your close family member was advised to be under self-quarantine in last 3 weeks or was in contact (Physical) with anyone who have returned from abroad in the last two weeks? </td><td style="border: 1px solid black;"> #3radio# </td><td style="border: 1px solid black;"> #3desc# </td></tr>
+		<tr><td style="border: 1px solid black;">4.Do you have any pre-existing illness such as diabetes, heart, lungs etc.? </td><td style="border: 1px solid black;"> #4radio# </td><td style="border: 1px solid black;"> #4desc# </td></tr>
+	</tbody>
+</table></br>
+<p><b>Disclaimer:</b> Employee to download Aarogya Setu App and carry extra mask while going to office, further expecting female employees are not allowed to work from office.</p>
+</br>
+Sincerely,</br>
+Manager</br>
+Max Life Insurance Ltd.</br></br>
+
+==========================================================
+
+Reject workflow mail subject
+
+#ApprovalStatus#  : Work from Office - Pass Request
+
+=============================================================
+
+Reject workflow mail content
+
+Dear [$recipient$] ,</br></br>
+Your request with following details has been <b> #ApprovalStatus# </b>.</br></br>
+<table style="border: 1px solid black;">
+	<thead>
+		<tr><th style="border: 1px solid black;">Employee Code</th><th style="border: 1px solid black;">Employee Name</th><th style="border: 1px solid black;">Employee Department</th><th style="border: 1px solid black;">Employee Location</th></tr>
+	</thead>
+	<tbody>
+		<tr><td style="border: 1px solid black;"> #EmployeeCode# </td><td style="border: 1px solid black;"> #EmployeeName# </td><td style="border: 1px solid black;"> #Department# </td><td style="border: 1px solid black;"> #EmployeeLocation# </td></tr>
+	</tbody>
+
+	<tr><th style="border: 1px solid black;">Reason for request</th><td colspan="3" style="border: 1px solid black;"> #ReasonforVisit# </td></tr>
+	<tr><th style="border: 1px solid black;">Spoc Manager Comments</th><td colspan="3" style="border: 1px solid black;"> #HRManagerComment# </td></tr>
+</table>
+</br>
+</br>   
+<table style="border: 1px solid black;">
+	<thead>
+		<tr><th colspan="3" style="border: 1px solid black;">Declaration of Health Conditions</th></tr>
+		<tr><th style="border: 1px solid black;">Checklist Question</th><th style="border: 1px solid black;">Bullet (Yes / No)</th><th style="border: 1px solid black;">Comments</th></tr>
+	</thead>
+	<tbody>
+		<tr><td style="border: 1px solid black;">1.Are you or any of your close family member experiencing any COVID related symptoms (cold, flu, fever etc.)? </td><td style="border: 1px solid black;"> #1radio# </td><td style="border: 1px solid black;"> #1desc# </td></tr>
+		<tr><td style="border: 1px solid black;">2.Are you residing in a containment zone or have you been advised to be under self-quarantine in the last 3 weeks? If yes, please mention details. </td><td style="border: 1px solid black;"> #2radio# </td><td style="border: 1px solid black;"> #2desc# </td></tr>
+		<tr><td style="border: 1px solid black;">3.Have you or any of your close family member was advised to be under self-quarantine in last 3 weeks or was in contact (Physical) with anyone who have returned from abroad in the last two weeks? </td><td style="border: 1px solid black;"> #3radio# </td><td style="border: 1px solid black;"> #3desc# </td></tr>
+		<tr><td style="border: 1px solid black;">4.Do you have any pre-existing illness such as diabetes, heart, lungs etc.? </td><td style="border: 1px solid black;"> #4radio# </td><td style="border: 1px solid black;"> #4desc# </td></tr>
+	</tbody>
+</table></br></br>
+Sincerely,</br>
+Manager</br>
+Max Life Insurance Ltd.</br></br>
+
+
+
+============================================================
+
+Email (Notification From)
+
+hrinfo@maxlifeinsurance.com
+
+=============================================================
+
+
+Show all records in report(comma ',' seprated)
+
+root, sahom4130, aghom3928, sthom0113, lphom4187
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,34 @@
+CMD Commands for builing and deployong liferay projects (Using blade, gradle and gradlew):
+
+1. Build a module (build in IDE):
+	cmd:	blade gw jar
+
+2. Build a Service module (buildService in IDE): 
+	cmd:	blade gw buildService
+	
+3. Copy command to copy the built jar to deploy folder of the server:
+	cmd:	copy ./build/libs/com.maxlife.portal.compbidworkflow-1.0.0.jar E:/Vishal/Liferay-Work/Liferay-Servers/liferay-dxp-7.1.10-ga1/deploy
+
+	[Note: change the module folder and server folder acc. to your needs]
+
+	cd maxlife-service-builder
+
+	cd ra-daily-choreography
+
+	cp ./maxlife-service-builder-api/build/libs/com.maxlife.portal.api-1.0.jar /media/vishal/Internal_Disk_1/Vishal/Liferay-Work/Liferay-Servers/liferay-dxp-7.1.10-ga1/deploy
+
+	cp ./maxlife-service-builder-service/build/libs/com.maxlife.portal.service-1.0.jar /media/vishal/Internal_Disk_1/Vishal/Liferay-Work/Liferay-Servers/liferay-dxp-7.1.10-ga1/deploy
+
+	cp build/libs/com.maxlife.portal.radailychoreography-1.0.0.jar /media/vishal/Internal_Disk_1/Vishal/Liferay-Work/Liferay-Servers/liferay-dxp-7.1.10-ga1/deploy
+
+4.	Create a portlet using blade CLI (create command)
+	
+	- blade create -l -- to tist the project templates available
+
+	- blade create -t <template-name> -d <folder-name> -b <build tool/type> -p <package-name> -c <class-name> -v <liferay-version> [name]
+
+	E.x:
+	blade create -t mvc-portlet -d awe-workflow -b gradle -p com.maxlife.portal.awe.portlet -c AWEPortlet -v 7.1 awe-portlet
+
+
+	

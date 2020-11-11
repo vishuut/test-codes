@@ -1,0 +1,44 @@
+<div id="managerEmailContentBox">
+		<div class="modal-content">
+			<div class="modal-body">
+				<p class="lead">Input Email to whom you want to share</p>
+				<aui:form id="managerEmailForm" onSubmit="return managerEmailSubmit(event)">
+					<aui:fieldset>
+						<aui:input type="email" name="managerEmailInput" id="managerEmailInput" label="" cssClass="text-sm" placeholder="name@domain.com">
+							<aui:validator name="required"/>
+							<aui:validator name="email"/>
+						</aui:input>
+					</aui:fieldset>
+					<aui:button-row>
+			            <aui:button id="closeManagerIdModal" value="Cancle" class="btn"></aui:button>
+			            <aui:button type="submit" value="Send" />
+			        </aui:button-row>
+				</aui:form>
+			</div>
+		</div>
+	</div>
+</div>
+<div class="yui3-skin-sam">
+	<div id="modal"></div>
+</div>
+<script type="text/javascript">
+	let modal;
+	YUI().use('aui-modal', function(Y) {
+			modal = new Y.Modal({
+				contentBox : '#managerEmailContentBox',
+				centered : true,
+				destroyOnHide: false,
+				modal : true,
+				visible : false,
+				render : '#modal',
+				toolbars: false,
+				width : 250
+			}).render();
+		});
+		
+		$("#"+ portletNamespace +"closeManagerIdModal").click(function(){
+			modal.hide();
+		});
+
+		modal.show();
+</script>

@@ -1,0 +1,442 @@
+[
+  {
+    "label": "Validity",
+    "id": "Validity",
+    "name": "Validity",
+    "value": "10"
+  },
+  {
+    "label": "BPA Applicable",
+    "id": "BPAApplicable",
+    "name": "BPAApplicable",
+    "value": "Yes"
+  },
+  {
+    "label": "Type of Service",
+    "id": "TypeofService",
+    "name": "TypeofService",
+    "value": "New"
+  },
+  {
+    "label": "Outsourcing",
+    "id": "Outsourcing",
+    "name": "Outsourcing",
+    "value": "No"
+  },
+  {
+    "label": "Material",
+    "id": "Material",
+    "name": "Material",
+    "value": "Select"
+  },
+  {
+    "label": "Business User Name",
+    "id": "BusinessUserName",
+    "type": "custom user",
+    "value": ""
+  },
+  {
+    "label": "User Department",
+    "id": "UserDepartment",
+    "name": "UserDepartment",
+    "value": "UD"
+  },
+  {
+    "label": "Request Initiation Date",
+    "id": "RequestInitiationDate",
+    "name": "RequestInitiationDate",
+    "value": "13/May/2020"
+  },
+  {
+    "label": "SOW Received Date",
+    "id": "SOWReceivedDate",
+    "name": "SOWReceivedDate",
+    "value": "10/May/2020"
+  },
+  {
+    "label": "Description of Services / Goods",
+    "id": "DescriptionofServicesGoods",
+    "name": "DescriptionofServicesGoods",
+    "value": "desc"
+  },
+  {
+    "label": "Category",
+    "id": "Category",
+    "name": "Category",
+    "value": "Distribution Services.AV Production.Audio Visual Development or Production"
+  },
+  {
+    "label": "Suppliers Invited",
+    "id": "SuppliersInvited",
+    "name": "SuppliersInvited",
+    "value": "sp1, sp2"
+  },
+  {
+    "label": "Shortlisted Suppliers",
+    "id": "ShortlistedSuppliers",
+    "name": "ShortlistedSuppliers",
+    "value": "sp2"
+  },
+  {
+    "label": "Type of Supplier",
+    "id": "TypeofSupplier",
+    "name": "TypeofSupplier",
+    "value": "Existing"
+  },
+  {
+    "label": "Reference check performed",
+    "id": "Referencecheckperformed",
+    "name": "Referencecheckperformed",
+    "value": "Select"
+  },
+  {
+    "label": "Reason for selection",
+    "id": "Reasonforselection",
+    "name": "Reasonforselection",
+    "value": "rsn"
+  },
+  {
+    "label": "Qty",
+    "id": "Qty",
+    "name": "Qty",
+    "value": "10"
+  },
+  {
+    "label": "Unit of Measurement",
+    "id": "UnitofMeasurement",
+    "name": "UnitofMeasurement",
+    "value": "Carton"
+  },
+  {
+    "label": "Unit Price",
+    "id": "UnitPrice",
+    "name": "UnitPrice",
+    "value": "100"
+  },
+  {
+    "label": "Total Amount in INR",
+    "id": "TotalAmountinINR",
+    "name": "TotalAmountinINR",
+    "value": "1000"
+  },
+  {
+    "label": "Savings Type",
+    "id": "SavingsType",
+    "name": "SavingsType",
+    "value": "Run Rate"
+  },
+  {
+    "label": "Savings Amount in INR",
+    "id": "SavingsAmountinINR",
+    "name": "SavingsAmountinINR",
+    "value": "100"
+  },
+  {
+    "label": "Negotiation Strategy",
+    "id": "NegotiationStrategy",
+    "name": "NegotiationStrategy",
+    "value": "Renegotiated price on existing terms"
+  },
+  {
+    "label": "Ariba ID",
+    "id": "AribaID",
+    "name": "AribaID",
+    "value": "1234"
+  },
+  {
+    "label": "Taxes",
+    "id": "Taxes",
+    "name": "Taxes",
+    "value": "Inclusive"
+  },
+  {
+    "label": "Payment Term",
+    "id": "PaymentTerm",
+    "name": "PaymentTerm",
+    "value": "100% After completion of work"
+  },
+  {
+    "label": "Issue Regret Email",
+    "id": "IssueRegretEmail",
+    "name": "IssueRegretEmail",
+    "value": "No"
+  },
+  {
+    "label": "Additional Terms",
+    "id": "AdditionalTerms",
+    "name": "AdditionalTerms",
+    "value": "None"
+  },
+  {
+    "label": "Contract Required",
+    "id": "ContractRequired",
+    "name": "ContractRequired",
+    "value": "No"
+  },
+  {
+    "label": "Type of Contract",
+    "id": "TypeofContract",
+    "name": "TypeofContract",
+    "value": "Select"
+  },
+  {
+    "label": "Renewal Date (If applicable)",
+    "id": "RenewalDateIfapplicable",
+    "name": "RenewalDateIfapplicable",
+    "value": ""
+  },
+  {
+    "label": "Compbid Copy",
+    "id": "CompbidCopy",
+    "type": "file",
+    "name": "CompbidCopy",
+    "value": "sample12356789.pdf"
+  },
+  {
+    "label": "Supporting Document",
+    "id": "SupportingDocument",
+    "type": "file",
+    "name": "SupportingDocument",
+    "value": ""
+  },
+  {
+    "label": "Old SOW/ MSA/ Compbid",
+    "id": "OldSOWMSACompbid",
+    "type": "file",
+    "name": "OldSOWMSACompbid",
+    "value": ""
+  },
+  {
+    "label": "Ariba & Quote",
+    "id": "AribaQuote",
+    "type": "file",
+    "name": "AribaQuote",
+    "value": ""
+  },
+  {
+    "label": "Score Card",
+    "id": "ScoreCard",
+    "type": "file",
+    "name": "ScoreCard",
+    "value": ""
+  },
+  {
+    "label": "Initiation / SOW Email",
+    "id": "InitiationSOWEmail",
+    "type": "file",
+    "name": "InitiationSOWEmail",
+    "value": ""
+  },
+  {
+    "label": "Reference Check Doc",
+    "id": "ReferenceCheckDoc",
+    "type": "file",
+    "name": "ReferenceCheckDoc",
+    "value": ""
+  },
+  {
+    "label": "Previous Compbid",
+    "id": "PreviousCompbid",
+    "type": "linkworkflow",
+    "name": "PreviousCompbid",
+    "value": ""
+  },
+  {
+    "label": "Additional Remarks",
+    "id": "AdditionalRemarks",
+    "name": "AdditionalRemarks",
+    "value": "Rem"
+  },
+  {
+    "label": "Approvers",
+    "id": "approver",
+    "type": "approvers",
+    "value": "test",
+    "flow": "parallel"
+  },
+  {
+    "label": "Script",
+    "id": "Script",
+    "name": "Script",
+    "value": "Script for this",
+    "type": "hidden"
+  },
+  {
+    "label": "Auto Approval",
+    "id": "AutoApproval",
+    "type": "auto-approval",
+    "value": "0$#0"
+  }
+]
+
+[{
+    "label": "Function of the User",
+    "id": "FunctionoftheUser",
+    "name": "FunctionoftheUser",
+    "value": ""
+}, {
+    "label": "Manager of the User",
+    "id": "ManageroftheUser",
+    "name": "ManageroftheUser",
+    "value": ""
+}, {
+    "label": "Date of Incident",
+    "id": "DateofIncident",
+    "name": "DateofIncident",
+    "value": "01/Oct/2020"
+}, {
+    "label": "Incident Title",
+    "id": "IncidentTitle",
+    "name": "IncidentTitle",
+    "value": "Test 3"
+}, {
+    "label": "Description",
+    "id": "Description",
+    "name": "Description",
+    "value": "Testing"
+}, {
+    "label": "Impacted Process",
+    "id": "ImpactedProcess",
+    "value": "Finance"
+}, {
+    "label": "Impacted LOB",
+    "id": "ImpactedLOB",
+    "value": "Group"
+}, {
+    "label": "Channel",
+    "id": "Channel",
+    "value": "Group"
+}, {
+    "label": "RCA available",
+    "id": "RCAavailable",
+    "name": "RCAavailable",
+    "value": "No"
+}, {
+    "label": "Root Cause Analysis",
+    "id": "RootCauseAnalysis",
+    "name": "RootCauseAnalysis",
+    "value": ""
+}, {
+    "label": "Supporting Document",
+    "id": "SupportingDocument",
+    "type": "file",
+    "name": "SupportingDocument",
+    "value": "Sanjay Bhatt-MSA-Final.pdf"
+}, {
+    "label": "When you want to fill rest of the details related to incident",
+    "id": "Whenyouwanttofillrestofthedetailsrelatedtoincident",
+    "value": "Later"
+}, {
+    "label": "Action Required",
+    "id": "ActionRequired",
+    "name": "ActionRequired",
+    "value": "Select"
+}, {
+    "label": "Type of Action",
+    "id": "TypeofAction",
+    "name": "TypeofAction",
+    "value": "Select"
+}, {
+    "label": "Action Taken",
+    "id": "ActionTaken",
+    "name": "ActionTaken",
+    "value": ""
+}, {
+    "label": "Action closure date (Target)",
+    "id": "ActionclosuredateTarget",
+    "name": "ActionclosuredateTarget",
+    "value": ""
+}, {
+    "label": "Responsibility",
+    "id": "Responsibility",
+    "type": "custom user",
+    "value": ""
+}, {
+    "label": "Action Completed",
+    "id": "ActionCompleted",
+    "name": "ActionCompleted",
+    "value": "Select"
+}, {
+    "label": "Action Closed Date",
+    "id": "ActionClosedDate",
+    "name": "ActionClosedDate",
+    "value": ""
+}, {
+    "label": "Hit Category",
+    "id": "HitCategory",
+    "name": "HitCategory",
+    "value": "Select"
+}, {
+    "label": "Estimated Loss, if applicable",
+    "id": "EstimatedLossifapplicable",
+    "name": "EstimatedLossifapplicable",
+    "value": ""
+}, {
+    "label": "Actual Loss, if applicable",
+    "id": "ActualLossifapplicable",
+    "name": "ActualLossifapplicable",
+    "value": ""
+}, {
+    "label": "Impacted count, if applicable",
+    "id": "Impactedcountifapplicable",
+    "name": "Impactedcountifapplicable",
+    "value": ""
+}, {
+    "label": "Impacted Stakeholders",
+    "id": "ImpactedStakeholders",
+    "value": ""
+}, {
+    "label": "Risk Category",
+    "id": "RiskCategory",
+    "name": "RiskCategory",
+    "value": "Select"
+}, {
+    "label": "Operational Impact",
+    "id": "OperationalImpact",
+    "name": "OperationalImpact",
+    "value": "Select"
+}, {
+    "label": "Financial Impact",
+    "id": "FinancialImpact",
+    "name": "FinancialImpact",
+    "value": "Select"
+}, {
+    "label": "Reputation Impact",
+    "id": "ReputationImpact",
+    "name": "ReputationImpact",
+    "value": "Select"
+}, {
+    "label": "Compliance Impact",
+    "id": "ComplianceImpact",
+    "name": "ComplianceImpact",
+    "value": "Select"
+}, {
+    "label": "If repeat incident, linkage to past incident through Incident ID",
+    "id": "IfrepeatincidentlinkagetopastincidentthroughIncidentID",
+    "type": "linkworkflow",
+    "name": "IfrepeatincidentlinkagetopastincidentthroughIncidentID",
+    "value": ""
+}, {
+    "label": "RM Spoc",
+    "id": "rmspoc-user-label",
+    "type": "pre define approver bucket",
+    "value": "test"
+}, {
+    "label": "Approvers",
+    "id": "approver",
+    "type": "approvers",
+    "value": "",
+    "flow": "parallel"
+}, {
+    "label": "Risk Comments",
+    "id": "RiskComments",
+    "name": "RiskComments",
+    "value": ""
+}, {
+    "label": "custom script",
+    "id": "customscript",
+    "name": "customscript",
+    "value": "<script>\n\n  // function for get form state and restrict fields.\n  $(document).ready(function(){\n    var formState = $('.form-status').val();\n    if(typeof formState === 'undefined' || formState ===''){\n     $('.RiskCategory').hide();\n     $('.RiskCategory').closest('div.form-group').hide();\n     $('.OperationalImpact').hide();\n     $('.OperationalImpact').closest('div.form-group').hide();\n     $('.FinancialImpact').hide();\n     $('.FinancialImpact').closest('div.form-group').hide();\n     $('.ReputationImpact').hide();\n     $('.ReputationImpact').closest('div.form-group').hide();\n     $('.ComplianceImpact').hide();\n     $('.ComplianceImpact').closest('div.form-group').hide();\n     $('.link-to-workflow').hide();\n     $('.link-to-workflow').closest('div.form-group').hide();\n     $('#Approvers').hide();\n     $('#Approvers').closest('div.form-group').hide();\n     $('.RiskComments').hide();\n     $('.RiskComments').closest('div.form-group').hide();\n      var userInfo = JSON.parse($('.userJsonData').val());\n      $('.ManageroftheUser').val(userInfo['userManagerName']);\n      $('.FunctionoftheUser').val(userInfo['userDepartment']);\n    }\n    if(formState === 'draft'){\n     $('.RiskCategory').hide();\n     $('.RiskCategory').closest('div.form-group').hide();\n     $('.OperationalImpact').hide();\n     $('.OperationalImpact').closest('div.form-group').hide();\n     $('.FinancialImpact').hide();\n     $('.FinancialImpact').closest('div.form-group').hide();\n     $('.ReputationImpact').hide();\n     $('.ReputationImpact').closest('div.form-group').hide();\n     $('.ComplianceImpact').hide();\n     $('.ComplianceImpact').closest('div.form-group').hide();\n     $('.link-to-workflow').hide();\n     $('.link-to-workflow').closest('div.form-group').hide();\n     $('#Approvers').hide();\n     $('#Approvers').closest('div.form-group').hide();\n     $('.RiskComments').hide();\n     $('.RiskComments').closest('div.form-group').hide();\n     var actionRequiredVal = $('.ActionRequired').val();\n     if(actionRequiredVal === 'Yes') {\n       $('.TypeofAction').show();\n       $('.TypeofAction').closest('div.form-group').show();\n       $('.ActionTaken').show();\n       $('.ActionTaken').closest('div.form-group').show();\n       $('.ActionclosuredateTarget').show();\n       $('.ActionclosuredateTarget').closest('div.form-group').show();\n       $('.Responsibility').show();\n       $('.Responsibility').closest('div.form-group').show();\n       $('.ActionCompleted').show();\n       $('.ActionCompleted').closest('div.form-group').show();\n       $('.ActionClosedDate').show();\n       $('.ActionClosedDate').closest('div.form-group').show();\n     }\n    }\n    if(formState === 'pending') {\n      $('.save-as-draft-form').hide();\n      $('.submit-form').show();\n      $('.RiskCategory').attr('validation','required');\n      $('.OperationalImpact').attr('validation','required');\n      $('.FinancialImpact').attr('validation','required');\n      $('.ReputationImpact').attr('validation','required');\n      $('.ComplianceImpact').attr('validation','required');\n      $('#Approvers').attr('validation','required');\n      var actionRequiredVal = $('.ActionRequired').val();\n      if(actionRequiredVal === 'Yes') {\n       $('.TypeofAction').show();\n       $('.TypeofAction').closest('div.form-group').show();\n       $('.ActionTaken').show();\n       $('.ActionTaken').closest('div.form-group').show();\n       $('.ActionclosuredateTarget').show();\n       $('.ActionclosuredateTarget').closest('div.form-group').show();\n       $('.Responsibility').show();\n       $('.Responsibility').closest('div.form-group').show();\n       $('.ActionCompleted').show();\n       $('.ActionCompleted').closest('div.form-group').show();\n       $('.ActionClosedDate').show();\n       $('.ActionClosedDate').closest('div.form-group').show();\n     }\n    }\n\t\n\tvar value = $('input[id=Whenyouwanttofillrestofthedetailsrelatedtoincident]:checked').val();\n\tif(typeof value === 'undefined'){\n\t\thideForm2();\n\t}else if(value  === 'Now') {\n\t\tshowForm2();\n\t}\n\tif(value  === 'Later') {\n\t\thideForm2();\n\t}\n  });\n\n$(document).on('change', '.ActionRequired', function() {\n\tvar actionRequiredVar = $('.ActionRequired').val();\n\tif(actionRequiredVar === 'Yes') {\n\t\t$('.TypeofAction').show();\n\t\t$('.TypeofAction').closest('div.form-group').show();\n\t\t$('.TypeofAction').attr('validation','required');   \n\t\t$('.ActionTaken').show();\n\t\t$('.ActionTaken').closest('div.form-group').show();\n\t\t$('.ActionTaken').attr('validation','required');   \n\t\t$('.ActionclosuredateTarget').show();\n\t\t$('.ActionclosuredateTarget').closest('div.form-group').show();\n\t\t$('.ActionclosuredateTarget').attr('validation','required');\n                $('.Responsibility').show();\n\t\t$('.Responsibility').closest('div.form-group').show();\n\t\t$('.Responsibility').attr('validation','required');\n                $('.ActionCompleted').show();\n\t\t$('.ActionCompleted').closest('div.form-group').show();\n\t\t$('.ActionCompleted').attr('validation','required'); \n                $('.ActionClosedDate').show();\n\t\t$('.ActionClosedDate').closest('div.form-group').show();\n\t\t$('.ActionClosedDate').attr('validation','required');  \n\n\t}else {\n\t\t$('.TypeofAction').hide();\n\t\t$('.TypeofAction').closest('div.form-group').hide();\n\t\t$('.TypeofAction').attr('validation','');   \n\t\t$('.ActionTaken').hide();\n\t\t$('.ActionTaken').closest('div.form-group').hide();\n\t\t$('.ActionTaken').attr('validation','');   \n\t\t$('.ActionclosuredateTarget').hide();\n\t\t$('.ActionclosuredateTarget').closest('div.form-group').hide();\n\t\t$('.ActionclosuredateTarget').attr('validation','');\n                $('.Responsibility').hide();\n\t\t$('.Responsibility').closest('div.form-group').hide();\n\t\t$('.Responsibility').attr('validation','');\n                $('.ActionCompleted').hide();\n\t\t$('.ActionCompleted').closest('div.form-group').hide();\n\t\t$('.ActionCompleted').attr('validation',''); \n                $('.ActionClosedDate').hide();\n\t\t$('.ActionClosedDate').closest('div.form-group').hide();\n\t\t$('.ActionClosedDate').attr('validation','');\n\t}\n})  \n  \nfunction showForm2(){\n    $('.ActionRequired').show();\n    $('.ActionRequired').closest('div.form-group').show();\n    $('.ActionRequired').attr('validation','required');\n    $('.HitCategory').show();\n    $('.HitCategory').closest('div.form-group').show();\n    $('.HitCategory').attr('validation','required');\t\n    $('.EstimatedLossifapplicable').show();\n    $('.EstimatedLossifapplicable').closest('div.form-group').show();\n    $('.EstimatedLossifapplicable').attr('validation','required');\n    $('.ActualLossifapplicable').show();\n    $('.ActualLossifapplicable').closest('div.form-group').show();\n    $('.ActualLossifapplicable').attr('validation','required');\n    $('.Impactedcountifapplicable').show();\n    $('.Impactedcountifapplicable').closest('div.form-group').show();\n    $('.Impactedcountifapplicable').attr('validation','required');\n\t\n    $( 'input[id^=ImpactedStakeholders]' ).closest('div.form-group').show();\n    $( 'input[id^=ImpactedStakeholders]' ).show();\n    $( 'input[id^=ImpactedStakeholders]' ).attr('validation','required');\n    $('.RCAavailable').attr('validation','required');\n}  \n\nfunction hideForm2() {\n\t$('.ActionRequired').hide();\n    $('.ActionRequired').closest('div.form-group').hide();  \n\t$('.ActionRequired').attr('validation','');   \n\t$('.TypeofAction').hide();\n\t$('.TypeofAction').closest('div.form-group').hide();\n\t$('.ActionTaken').hide();\n\t$('.ActionTaken').closest('div.form-group').hide();\n\t$('.ActionclosuredateTarget').hide();\n\t$('.ActionclosuredateTarget').closest('div.form-group').hide();\n\t$('.Responsibility').hide();\n\t$('.Responsibility').closest('div.form-group').hide();\n\t$('.Responsibility').attr('validation','');\n\t$('.ActionCompleted').hide();\n\t$('.ActionCompleted').closest('div.form-group').hide();\n\t$('.ActionClosedDate').hide();\n\t$('.ActionClosedDate').closest('div.form-group').hide();\n\t$('.HitCategory').hide();\n\t$('.HitCategory').closest('div.form-group').hide();\n\t$('.HitCategory').attr('validation','');\n\t$('.EstimatedLossifapplicable').hide();\n\t$('.EstimatedLossifapplicable').closest('div.form-group').hide();\n\t$('.EstimatedLossifapplicable').attr('validation','');\n\t$('.ActualLossifapplicable').hide();\n\t$('.ActualLossifapplicable').closest('div.form-group').hide();\n\t$('.ActualLossifapplicable').attr('validation','');\n\t$('.Impactedcountifapplicable').hide();\n\t$('.Impactedcountifapplicable').closest('div.form-group').hide();\n\t$('.Impactedcountifapplicable').attr('validation','');\n\t$( 'input[id^=ImpactedStakeholders]' ).closest('div.form-group').hide();\n\t$( 'input[id^=ImpactedStakeholders]' ).hide();\n\t$( 'input[id^=ImpactedStakeholders]' ).attr('validation','');\n\t$('.RCAavailable').attr('validation','');\n\t\n}\n$(document).on('click', '.Whenyouwanttofillrestofthedetailsrelatedtoincident', function() {\n  var value = $('input[id=Whenyouwanttofillrestofthedetailsrelatedtoincident]:checked').val();\n  if(value  === 'Now') {\n    showForm2();\n  }\n  if(value  === 'Later') {\n\thideForm2();\n  }\n});\n\n//function for e  - + validations and rupay comma on number fields on EstimatedLossifapplicable.\n  $(document).on('keypress', '.EstimatedLossifapplicable', function(e){\n    if (e.which != 8 && e.which != 44 && e.which != 46 && e.which != 0 && \n    (e.which < 48 || e.which > 57)) {\n      e.preventDefault();\n    }\n  });\n$(document).on('keyup', '.EstimatedLossifapplicable', function(e){\n    var value = $('.EstimatedLossifapplicable').val();\n    value = value.replace(/,/g,'');\n    $('.EstimatedLossifapplicable').val(numberWithCommas(value));\n});\n\n\n//function for e  - + validations on number fields on ActualLossifapplicable.\n$(document).on('keypress', '.ActualLossifapplicable', function(e){\n    if (e.which != 8 && e.which != 44 && e.which != 46 && e.which != 0 && \n    (e.which < 48 || e.which > 57)) {\n      e.preventDefault();\n    }\n  });\n$(document).on('keyup', '.ActualLossifapplicable', function(e){\n    var value = $('.ActualLossifapplicable').val();\n    value = value.replace(/,/g,'');\n    $('.ActualLossifapplicable').val(numberWithCommas(value));\n});\n\n//function for e  - + validations on number fields on Impactedcountifapplicable.\n$(document).on('keypress', '.Impactedcountifapplicable', function(e){\n    if (e.which != 8 && e.which != 44 && e.which != 46 && e.which != 0 && \n    (e.which < 48 || e.which > 57)) {\n      e.preventDefault();\n    }\n  });\n$(document).on('keyup', '.Impactedcountifapplicable', function(e){\n    var value = $('.Impactedcountifapplicable').val();\n    value = value.replace(/,/g,'');\n    $('.Impactedcountifapplicable').val(numberWithCommas(value));\n});\n\n// function for convert rupay with comma.\nfunction numberWithCommas(x) {\n    var parts = x.toString().split('.');\n    parts[0] = parts[0].replace(/\\B(?=(\\d{3})+(?!\\d))/g, ',');\n    return parts.join('.');\n}\n\n//RCA available on\n$(document).on('change', '.RCAavailable', function () {\n     typeOfRCAavailableHideAndShow();\n });\n\n//function use for show and hide 'RCAavailable' filed.\nfunction typeOfRCAavailableHideAndShow(){\n  var rcAavailable= $('.RCAavailable').val();\n  if(rcAavailable== 'Yes'){\n    $('.RootCauseAnalysis').show();\n    $('.RootCauseAnalysis').closest('div.form-group').show();\n\t$('.RootCauseAnalysis').attr('validation','required');\n  }else{\n    $('.RootCauseAnalysis').hide();\n    $('.RootCauseAnalysis').closest('div.form-group').hide();\n\t$('.RootCauseAnalysis').attr('validation','');\n  }\n}\n  //script on load     \n  $('.FunctionoftheUser').hide();\n  $('.FunctionoftheUser').closest('div.form-group').hide();\n  $('.ManageroftheUser').hide();\n  $('.ManageroftheUser').closest('div.form-group').hide();\n  $('#rmspoc-user').hide();\n  $('#rmspoc-user').closest('div.form-group').hide();\n  $('.RootCauseAnalysis').hide();\n  $('.RootCauseAnalysis').closest('div.form-group').hide();\n  $('.ActionRequired').hide();\n  $('.ActionRequired').closest('div.form-group').hide();   \n  $('.TypeofAction').hide();\n  $('.TypeofAction').closest('div.form-group').hide();\n  $('.ActionTaken').hide();\n  $('.ActionTaken').closest('div.form-group').hide();\n $('.ActionclosuredateTarget').hide();\n $('.ActionclosuredateTarget').closest('div.form-group').hide();\n$('.Responsibility').hide();\n $('.Responsibility').closest('div.form-group').hide();\n$('.ActionCompleted').hide();\n $('.ActionCompleted').closest('div.form-group').hide();\n$('.ActionClosedDate').hide();\n $('.ActionClosedDate').closest('div.form-group').hide();\n$('.HitCategory').hide();\n $('.HitCategory').closest('div.form-group').hide();\n$('.EstimatedLossifapplicable').hide();\n $('.EstimatedLossifapplicable').closest('div.form-group').hide();\n$('.ActualLossifapplicable').hide();\n $('.ActualLossifapplicable').closest('div.form-group').hide();\n$('.Impactedcountifapplicable').hide();\n $('.Impactedcountifapplicable').closest('div.form-group').hide();\n$( 'input[id^=ImpactedStakeholders]' ).closest('div.form-group').hide();\n$( 'input[id^=ImpactedStakeholders]' ).hide();\n\n$('input[name*=DateofIncident]').datepicker({\n\tdateFormat : 'dd/M/yy',\n\tchangeMonth : true,\n\tchangeYear : true,\n\tmaxDate : new Date(),\n\tgotoCurrent : true\n  });\n\n$('input[name*=ActionclosuredateTarget]').datepicker({\n\tdateFormat : 'dd/M/yy',\n\tchangeMonth : true,\n\tchangeYear : true,\n\tminDate : new Date(),\n\tgotoCurrent : true\n  });\n\n$('input[name*=ActionClosedDate]').datepicker({\n\tdateFormat : 'dd/M/yy',\n\tchangeMonth : true,\n\tchangeYear : true,\n\tminDate : new Date(),\n\tgotoCurrent : true\n  });\n</script>",
+    "type": "hidden"
+}]
+

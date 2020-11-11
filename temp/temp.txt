@@ -1,0 +1,372 @@
+"userSsoId"
+"userRole"
+"solId"
+"branchName"
+"clusterName"
+"formType"
+"formStatus"
+"formCreateDate""
+"monthNumber"
+"year"
+"createdBy"
+"userName"
+"createDate"
+"modifiedDate"
+"formSelectDate"
+"meetingDone"
+"topHelpItems"
+"fullSegmentName"
+"staffNumber"
+"activeStaffNumber"
+"policiesRequired"
+"agreedAverageCase"
+"totalWpc"
+"leadsRequired"
+"total_agreedActivation"
+"total_proActiveMember"
+"total_leadsPerResource"
+"total_staffNumber"
+"total_activeStaffNumber"
+"total_policiesRequired"
+"total_agreedAverageCase"
+"total_totalWpc"
+"total_leadsRequired"
+"total_agreedActivation"
+"total_proActiveMember"
+"total_leadsPerResource"
+"what"
+"how"
+"qualityVector"
+"currentState"
+"currentStateComment"
+"desiredState"
+"desiredStateComment"
+"raId"
+"raName"
+"Punctuality"
+"productKnowledge"
+"understandingOfOpsProcess"
+"followUpOnLeads"
+"ratingAvearge"
+
+
+
+
+
+RA Role Codes:
+RDC,AOS,LAM,SAO,SSL,RAP,SML,XAA,TSM,WMA,SPR,XRA,XDS,XMS,ADS,LDM,XSR,SWM,GAM,LRA,LSM,XRC,XSM,AXM,TRA,DSL,SMF,XDC,XAM,AEC,RAG,XRM,XAS,AFF,AMP,RSL,RES,XAC
+
+CM Role Codes:
+XSD,ALL,CSL,ABZ,XSC,AMX,AND,CMD,CMG,XSA,TCM,DCL,XAR,DCG,SBR,CXM,STH,XCM,AXC,XDM,DSK,SUL
+
+CRM Role Codes:
+SBG,CRG,AVC,SHC,XRH,SSC,CLS,CAG,XCH,GGB,SCO,CBH,CBP,CAH,XCA,SXM,ACH
+
+==============
+
+Cm and CRM users:
+
+Cm - mtblr2044
+  Ras under: [anche2945(ashokkumar), pknblr2991(pavan)]
+Crm - savjw0477
+
+===================
+
+Monthly mail users for Incident Workflow:
+
+sumit.jain1@maxlifeinsurance.com,Hitesh.Kumar@maxlifeinsurance.com,Gurjeet.Singh@maxlifeinsurance.com,Shikha.Sharma@maxlifeinsurance.com,kapil.kaushik@maxlifeinsurance.com,manish.gomber@maxlifeinsurance.com,rajat.sharma2@maxlifeinsurance.com,sandeep.malhotra@maxlifeinsurance.com,Uma.Sethi@maxlifeinsurance.com,manmeet.singh4@maxlifeinsurance.com,Satish.VC@maxlifeinsurance.com,supinder.kaur@maxlifeinsurance.com,amit.wadhwa2@maxlifeinsurance.com,Balram.Dhama@maxlifeinsurance.com,takdir.singh@maxlifeinsurance.com,tushar.maheshwari@maxlifeinsurance.com,arun.kumarmittal@maxlifeinsurance.com,tanuj.matta@maxlifeinsurance.com,Tushar.Jain@maxlifeinsurance.com,ankit.tandon@maxlifeinsurance.com,jagrit.minocha@maxlifeinsurance.com,bhavna.longani@maxlifeinsurance.com,Samta.Bajaj@maxlifeinsurance.com,Perminder.Kaur@maxlifeinsurance.com,Rajeev.Bhatia3@maxlifeinsurance.com,anuj.kataria@maxlifeinsurance.com,nishith.dwivedi@maxlifeinsurance.com,aneet.bansal@maxlifeinsurance.com
+
+
+
+
+Founders day Prod URL:
+=====================
+https://ecube.maxlifeinsurance.com/group/ecube/founders-day
+
+
+===============
+
+    $('.ActionCompleted').attr('validation','required'); 
+                $('.ActionClosedDate').show();
+    $('.ActionClosedDate').closest('div.form-group').show();
+    $('.ActionClosedDate').attr('validation','required');  
+
+
+======================
+
+         {
+            "request": {
+               "header": {
+                   "soaCorrelationId": "1234567890",
+                   "soaAppId": "EAPP"
+               },
+                "payload": {
+               "agentId": "",
+               "services": [
+                 {
+                   "serviceName": "agtAddDtlType"
+                 },
+                 {
+                   "serviceName": "agtBsDtlType"
+                   
+                 },
+                 {
+                   "serviceName": "agtContDtlType"
+                   
+                 },
+                 {
+                   "serviceName": "agtContrtDtlType"
+                   
+                 },
+                 {
+                   "serviceName": "agtMoveDtlType"
+                   
+                 },
+                 {
+                   "serviceName": "agtrefDtlType"
+                  
+                 },
+                 {
+                   "serviceName": "agtPolDtlType"
+                   
+                 },
+                 {
+                   "serviceName": "agtCommDtlType" 
+                 },
+                 {
+                   "serviceName": "agtFinDtlType"  
+                 },
+                 {
+                   "serviceName": "agentSubordinateDetails"
+               ]
+            }
+         }
+      }
+            
+            ======================
+
+Risk changes and issue fixing - 3-4 days
+Incident changes - 7-8 days
+
+1. Username : rauser1
+   Full name: RA User1
+   pass: Test@1234
+   mail: rauser1@mail.com
+   manager: root
+
+2. Username: rauser2
+   Full name: RA User2
+   pass: Test@1234
+   mail: rauser2@mail.com
+   manager: root
+
+3. Username: rauser3
+   Full name: RA User3
+   pass: Test@1234
+   mail: rauser3@mail.com
+   manager: root
+
+1. Username : cvruser1
+   Full name: CVR User1
+   pass: Test@1234
+   mail: cvruser1@mail.com
+   manager: root
+
+2. Username : cvruser2
+   Full name: CVR User2
+   pass: Test@1234
+   mail: cvruser2@mail.com
+   manager: root
+
+3. Username : cvruser3
+   Full name: CVR User3
+   pass: Test@1234
+   mail: cvruser3@mail.com
+   manager: root
+
+1. Username : bvruser1
+   Full name: BVR User1
+   pass: Test@1234
+   mail: bvruser1@mail.com
+   manager: root
+
+2. Username : bvruser2
+   Full name: BVR User2
+   pass: Test@1234
+   mail: bvruser2@mail.com
+   manager: root
+
+3. Username : bvruser3
+   Full name: BVR User3
+   pass: Test@1234
+   mail: bvruser3@mail.com
+   manager: root
+
+
+
+
+
+======================
+
+
+
+Ragex to check axis bank email:
+
+
+function(val, fieldNode, ruleValue){
+   const regex = RegExp('([a-zA-Z0-9_.])(@axisbank.(com|co|in)){1}$');
+   return regex.test(val);
+}
+
+
+
+================
+
+Things nedded for Morning Huddle form:
+
+1: Api details to findut User type (RA/CVR/BVR): api responce field name and there values.
+   #  get mnylmyagentrolecode from ssouserdetail api and find corresponding role
+   #  designation field to be given and also mapping
+
+2: BranchSOL ID API details or mapping list in caseit is to be mapped in ECube databse.
+   #  find value mnylagentcode from ssouserdetail api response.
+   #  use this agent id to hit agent 360 api with agent id in the URL
+   #  get secondaryBranchCodeAll(Array of branch codes) from agent 360 api responce/payload/agtBsDtlType section.
+3: Need Cluster manager mapping list or Api details in case it is to be fetched from an API.
+   #  get mnylbossid from the ssouserdetail api and hit the api once again.
+   #  get mnylofficialemail from the response
+4: Created a custom stepper to add on number fields for increment and decrement.
+5: Email text for morning huddle.
+6: What will happen after the form is submitted successfully?
+
+================
+
+
+Code review comments implementation on all modules
+1. SQL connection clouser and Cleanups.
+2. Replace connection.close() methods with DataAccess.cleanup(<parameter>) methods, for connections, prepared-statements and result-sets.
+3. Search for Input and Output stream usage in all the modules and ensure there proper clouser with a finally block.
+4. The class "AgentAttendanceLocalServiceImpl" has a method called "getPreparedStatement()". This method contains faulty code. So need to findout all the usage of this method in every module and fix them with proper clouser of connection and preparedStatements.
+5. Need to findout all the "getAll()" method calls in all the modules made using One Workflow tool and replace them with revalent methods (if possible).
+6. The "Link to Previous" form control used in One Workflow modules fetches all the enries in a single time and that causes a huge amount of data to be fetched from the database, that is time and resource consuming. Need to find out some way to reduce the amount of data fetched at a single time. (if possible).
+7. Most of the database tables related to One Workflow use to contain very large amount of data in every single record. Along with time, as number of records are increasing, transactions related to these tables is getting heavier and more and more resource consuming. So we should plan for archiving/purging of data as there may be some data which are very old and may not be needed by the user.
+
+
+================
+
+@  AxisLead
+@  assessment-form
+@  aws-workflow
+@  service-builder
+@  ijp-admin
+@  lockdown-work-from-office-pass
+@  maxlife-auto-SP-usergroup
+@  request-proof
+@  sharepoint-authentication
+
+
+====================
+
+
+POST https://gatewayuat.maxlifeinsurance.com/apimgm/sb/soa/ssogetuserdetails/v2
+
+
+Request=============================
+
+
+{
+ "request": {
+  "header": {
+   "soaCorrelationId": "54654",
+   "soaAppId": "EAPP"
+  },
+  "payload": {
+   "ssoId" : "pmhom3698"
+   
+  }
+ }}
+ 
+ 
+Response==============================
+
+
+{"response": {
+   "header":    {
+      "soaAppId": "EAPP",
+      "soaCorrelationId": "54654"
+   },
+   "msgInfo":    {
+      "msgCode": "200",
+      "msg": "Success",
+      "msgDescription": "Response Generated Successfully"
+  },
+   "payload":    {
+      "erglobalid": "",
+      "telephonenumber": "",
+      "ercreatedate": "",
+      "chatbotaccess": "Y",
+      "erpswdlastchanged": "",
+      "mnyldisplayname": "Priyanka   Mittal",
+      "mnylposition": "1752",
+      "mnyldepartmentgpname": "Information Technology",
+      "ersynchpassword": "",
+      "mnylmyagentrolecode": "",
+      "givenname": "Priyanka",
+      "mnylApplicationRole": "IF.ALL",
+      "mnyllocationcode": "Gurugram -90A",
+      "erparent": "",
+      "mnylofficialemail": "priyanka.mittal@maxlifeinsurance.com",
+      "mnylcomplianceflag": "true",
+      "erpersonstatus": "",
+      "mnylagentemail": "",
+      "mnylsununitcode": "CHOMC01",
+      "mnylagentcode": "",
+      "mnylpreferredmobile": "8826686262",
+      "mnylhrroledescription": "Senior Manager - Enterprise Architecture",
+      "mnylmyagentzonecode": "",
+      "mnylmyagentofficecode": "",
+      "mnylcity": "HR",
+      "mnyldepartmentgpcode": "Information Technology",
+      "memberof": "",
+      "mnylresidentialpostaladdress": "",
+      "departmentnumber": "",
+      "mnylagentagencycode": "",
+      "mnyljoiningdate": "2016-11-15 00:00:00.0",
+      "mnylhrrolecode": "IT001",
+      "mnylsundeptcode": "",
+      "botlist": "misbot_validated_key_bot_2017,hrbot_validated_key_bot_2017,N,N,N",
+      "manageraddn": "",
+      "mnylpreferredst": "Haryana",
+      "mnyldesignationdescription": "Senior Manager - Enterprise Architecture",
+      "title": "",
+      "mnyllocationdescription": "IT SOA & Enterprise Architecture",
+      "mnylband": "4A",
+      "uid": "pmhom3698",
+      "mnylusertype": "mnylEmployee",
+      "agentbossid": "",
+      "sn": "Mittal",
+      "mnyldob": "",
+      "mnylchannel": "",
+      "erlaststatuschangedate": "",
+      "manager": "",
+      "mnyldesignation": "Senior Manager - Enterprise Architecture",
+      "erroles": "",
+      "mnylnationality": "AKXPB5551E",
+      "cn": "Priyanka Mittal, PMHOM3698",
+      "mnylregion": "HO",
+      "mnylstatus": "Active",
+      "mnylinternalpersoncode": "HOM3698",
+      "mnylbossid": "HOM3558",
+      "mnylgender": "F",
+      "mnylpositionnumber": "1752",
+      "newLocationCode": "",
+      "mnylcostcenterid": "OISD",
+      "erlastcertifieddate": "",
+      "erlastmodifiedtime": ""
+   }
+}}
+
+=============================
+
+
+
